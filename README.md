@@ -21,7 +21,7 @@
 
 
 # NOTE
-  HASIL MEMASTIKAN IJO SEMUA TERGANTUNG IP
+  HASIL TIDAK MEMASTIKAN IJO SEMUA TERGANTUNG IP
 
 # MY SOCIAL MEDIA
  ​[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/seto.sanwa.3) 
